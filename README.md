@@ -21,12 +21,12 @@ Finally, I connected my local repository to GitHub using `git remote add origin`
 
 This assignment shows that GitHub is a powerful platform for hosting and managing code online. It allows developers to:
 
-- Store and back up their projects in remote repositories
-- Track changes and maintain version history
-- Collaborate with others using branches and pull requests
-- Review code and suggest improvements before merging changes
+.Store and back up their projects in remote repositories
+.Track changes and maintain version history
+.Collaborate with others using branches and pull requests
+.Review code and suggest improvements before merging changes
 
 Using GitHub, I was able to simulate real-world collaboration by creating a pull request, adding comments, and merging changes into the main branch.
 
 ## Conclusion
-Overall, this assignment helped me understand how Git and GitHub work together with VS Code to support efficient coding, version control, and collaboration in software development.
+Overall, this assignment helped me understand how Git and GitHub work together with VS Code to support efficient coding, version control, and collaboration in software development and collaboration.
